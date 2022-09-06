@@ -1,0 +1,25 @@
+* {
+  font-family: Verdana, sans-serif;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+
+figcaption {
+  font-size: 12px;
+  padding-inline: 6px;
+  padding-block: 8px;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+figure {
+  background-color: white;
+}
